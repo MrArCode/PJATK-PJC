@@ -1,0 +1,3 @@
+/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/CMakeFiles/Wyklad.dir
+/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
