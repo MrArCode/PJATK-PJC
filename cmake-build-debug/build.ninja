@@ -91,6 +91,12 @@ build CMakeFiles/Wyklad.dir/W1/Zadania/W1.6_Suma_dwóch_liczb.cpp.o: CXX_COMPILE
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W1/Zadania
 
+build CMakeFiles/Wyklad.dir/Core/Box_print.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/Core/Box$ print.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/Core/Box_print.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Wyklad.dir
+  OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/Core
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Wyklad
@@ -99,7 +105,7 @@ build CMakeFiles/Wyklad.dir/W1/Zadania/W1.6_Suma_dwóch_liczb.cpp.o: CXX_COMPILE
 #############################################
 # Link the executable Wyklad
 
-build Wyklad: CXX_EXECUTABLE_LINKER__Wyklad_Debug CMakeFiles/Wyklad.dir/W1/W.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.1_Migracja_kodu_Java_na_C++.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.2_Podstawowe_operacje_na_zmiennych_tekstowych.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.3_Translacja_cyfr.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.4_Porównanie_zachowania_między_Javą_a_C++.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.5_Sprawdzanie,_czy_pierwsza_wpisana_sekwencja_jest_równa_drugiej__.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.6_Suma_dwóch_liczb.cpp.o
+build Wyklad: CXX_EXECUTABLE_LINKER__Wyklad_Debug CMakeFiles/Wyklad.dir/W1/W.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.1_Migracja_kodu_Java_na_C++.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.2_Podstawowe_operacje_na_zmiennych_tekstowych.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.3_Translacja_cyfr.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.4_Porównanie_zachowania_między_Javą_a_C++.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.5_Sprawdzanie,_czy_pierwsza_wpisana_sekwencja_jest_równa_drugiej__.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.6_Suma_dwóch_liczb.cpp.o CMakeFiles/Wyklad.dir/Core/Box_print.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   POST_BUILD = :

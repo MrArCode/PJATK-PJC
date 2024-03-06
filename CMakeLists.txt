@@ -10,4 +10,5 @@ add_executable(Wyklad W1/W.cpp
         "W1/Zadania/W1.4 Porównanie zachowania między Javą a C++.cpp"
         "W1/Zadania/W1.5 Sprawdzanie, czy pierwsza wpisana sekwencja jest równa drugiej  .cpp"
         "W1/Zadania/W1.6 Suma dwóch liczb.cpp"
+        "Core/Box print.cpp"
 )
