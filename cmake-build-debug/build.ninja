@@ -98,8 +98,8 @@ build CMakeFiles/Wyklad.dir/W1/Zadania/W1.6_Suma_dwóch_liczb.cpp.o: CXX_COMPILE
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W1/Zadania
 
-build CMakeFiles/Wyklad.dir/Core/Box_print.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/Core/Box$ print.cpp || cmake_object_order_depends_target_Wyklad
-  DEP_FILE = CMakeFiles/Wyklad.dir/Core/Box_print.cpp.o.d
+build CMakeFiles/Wyklad.dir/Core/W1.1_Box_print.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/Core/W1.1$ Box$ print.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/Core/W1.1_Box_print.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
@@ -112,61 +112,68 @@ build CMakeFiles/Wyklad.dir/W2/W.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Us
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2
 
-build CMakeFiles/Wyklad.dir/W2/Zadania/Eliminowanie_największej_i_najmniejszej_wartości.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/Eliminowanie$ największej$ i$ najmniejszej$ wartości.cpp || cmake_object_order_depends_target_Wyklad
-  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/Eliminowanie_największej_i_najmniejszej_wartości.cpp.o.d
+build CMakeFiles/Wyklad.dir/W2/Zadania/W2.1_Eliminowanie_największej_i_najmniejszej_wartości.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/W2.1$ Eliminowanie$ największej$ i$ najmniejszej$ wartości.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/W2.1_Eliminowanie_największej_i_najmniejszej_wartości.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2/Zadania
 
-build CMakeFiles/Wyklad.dir/Core/Odwracanie_słów.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/Core/Odwracanie$ słów.cpp || cmake_object_order_depends_target_Wyklad
-  DEP_FILE = CMakeFiles/Wyklad.dir/Core/Odwracanie_słów.cpp.o.d
+build CMakeFiles/Wyklad.dir/Core/W2.1_Odwracanie_słów.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/Core/W2.1$ Odwracanie$ słów.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/Core/W2.1_Odwracanie_słów.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/Core
 
-build CMakeFiles/Wyklad.dir/W2/Zadania/Iloczyn_skalarny.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/Iloczyn$ skalarny.cpp || cmake_object_order_depends_target_Wyklad
-  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/Iloczyn_skalarny.cpp.o.d
+build CMakeFiles/Wyklad.dir/W2/Zadania/W2.2_Iloczyn_skalarny.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/W2.2$ Iloczyn$ skalarny.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/W2.2_Iloczyn_skalarny.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2/Zadania
 
-build CMakeFiles/Wyklad.dir/W2/Zadania/Iterowanie_pomijając_niektóre_elementy__.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/Iterowanie$ pomijając$ niektóre$ elementy$ $ .cpp || cmake_object_order_depends_target_Wyklad
-  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/Iterowanie_pomijając_niektóre_elementy__.cpp.o.d
+build CMakeFiles/Wyklad.dir/W2/Zadania/W2.3_Iteracja_co_N_elementów.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/W2.3$ Iteracja$ co$ N$ elementów.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/W2.3_Iteracja_co_N_elementów.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2/Zadania
 
-build CMakeFiles/Wyklad.dir/W2/Zadania/Największe_elementy_zbioru.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/Największe$ elementy$ zbioru.cpp || cmake_object_order_depends_target_Wyklad
-  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/Największe_elementy_zbioru.cpp.o.d
+build CMakeFiles/Wyklad.dir/W2/Zadania/W2.4_Największe_elementy_zbioru.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/W2.4$ Największe$ elementy$ zbioru.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/W2.4_Największe_elementy_zbioru.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2/Zadania
 
-build CMakeFiles/Wyklad.dir/W2/Zadania/Palindromy.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/Palindromy.cpp || cmake_object_order_depends_target_Wyklad
-  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/Palindromy.cpp.o.d
+build CMakeFiles/Wyklad.dir/W2/Zadania/W2.5_Palindromy.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/W2.5$ Palindromy.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/W2.5_Palindromy.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2/Zadania
 
-build CMakeFiles/Wyklad.dir/W2/Zadania/Sortowanie_wybranej_połowy_wektora.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/Sortowanie$ wybranej$ połowy$ wektora.cpp || cmake_object_order_depends_target_Wyklad
-  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/Sortowanie_wybranej_połowy_wektora.cpp.o.d
+build CMakeFiles/Wyklad.dir/W2/Zadania/W2.6_Sortowanie_wybranej_połowy_wektora.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/W2.6$ Sortowanie$ wybranej$ połowy$ wektora.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/W2.6_Sortowanie_wybranej_połowy_wektora.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2/Zadania
 
-build CMakeFiles/Wyklad.dir/W2/Zadania/Usuwanie_duplikatów.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/Usuwanie$ duplikatów.cpp || cmake_object_order_depends_target_Wyklad
-  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/Usuwanie_duplikatów.cpp.o.d
+build CMakeFiles/Wyklad.dir/W2/Zadania/W2.7_Usuwanie_duplikatów.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/W2.7$ Usuwanie$ duplikatów.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/W2.7_Usuwanie_duplikatów.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2/Zadania
+
+build CMakeFiles/Wyklad.dir/Core/W2.2_Manipulacja_formatem_wyświetlania_danych.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/Core/W2.2$ Manipulacja$ formatem$ wyświetlania$ danych.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/Core/W2.2_Manipulacja_formatem_wyświetlania_danych.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles/Wyklad.dir
+  OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/Core
 
 
 # =============================================================================
@@ -176,7 +183,7 @@ build CMakeFiles/Wyklad.dir/W2/Zadania/Usuwanie_duplikatów.cpp.o: CXX_COMPILER_
 #############################################
 # Link the executable Wyklad
 
-build Wyklad: CXX_EXECUTABLE_LINKER__Wyklad_Debug CMakeFiles/Wyklad.dir/W1/W.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.1_Migracja_kodu_Java_na_C++.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.2_Podstawowe_operacje_na_zmiennych_tekstowych.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.3_Translacja_cyfr.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.4_Porównanie_zachowania_między_Javą_a_C++.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.5_Sprawdzanie,_czy_pierwsza_wpisana_sekwencja_jest_równa_drugiej__.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.6_Suma_dwóch_liczb.cpp.o CMakeFiles/Wyklad.dir/Core/Box_print.cpp.o CMakeFiles/Wyklad.dir/W2/W.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/Eliminowanie_największej_i_najmniejszej_wartości.cpp.o CMakeFiles/Wyklad.dir/Core/Odwracanie_słów.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/Iloczyn_skalarny.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/Iterowanie_pomijając_niektóre_elementy__.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/Największe_elementy_zbioru.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/Palindromy.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/Sortowanie_wybranej_połowy_wektora.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/Usuwanie_duplikatów.cpp.o | _deps/fmt-build/libfmtd.a || _deps/fmt-build/libfmtd.a
+build Wyklad: CXX_EXECUTABLE_LINKER__Wyklad_Debug CMakeFiles/Wyklad.dir/W1/W.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.1_Migracja_kodu_Java_na_C++.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.2_Podstawowe_operacje_na_zmiennych_tekstowych.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.3_Translacja_cyfr.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.4_Porównanie_zachowania_między_Javą_a_C++.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.5_Sprawdzanie,_czy_pierwsza_wpisana_sekwencja_jest_równa_drugiej__.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.6_Suma_dwóch_liczb.cpp.o CMakeFiles/Wyklad.dir/Core/W1.1_Box_print.cpp.o CMakeFiles/Wyklad.dir/W2/W.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/W2.1_Eliminowanie_największej_i_najmniejszej_wartości.cpp.o CMakeFiles/Wyklad.dir/Core/W2.1_Odwracanie_słów.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/W2.2_Iloczyn_skalarny.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/W2.3_Iteracja_co_N_elementów.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/W2.4_Największe_elementy_zbioru.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/W2.5_Palindromy.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/W2.6_Sortowanie_wybranej_połowy_wektora.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/W2.7_Usuwanie_duplikatów.cpp.o CMakeFiles/Wyklad.dir/Core/W2.2_Manipulacja_formatem_wyświetlania_danych.cpp.o | _deps/fmt-build/libfmtd.a || _deps/fmt-build/libfmtd.a
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
   LINK_LIBRARIES = _deps/fmt-build/libfmtd.a
   OBJECT_DIR = CMakeFiles/Wyklad.dir
