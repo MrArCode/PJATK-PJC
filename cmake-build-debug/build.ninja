@@ -47,55 +47,126 @@ cmake_ninja_workdir = /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-
 #############################################
 # Order-only phony target for Wyklad
 
-build cmake_object_order_depends_target_Wyklad: phony || CMakeFiles/Wyklad.dir
+build cmake_object_order_depends_target_Wyklad: phony || cmake_object_order_depends_target_fmt
 
 build CMakeFiles/Wyklad.dir/W1/W.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W1/W.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles/Wyklad.dir/W1/W.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W1
 
 build CMakeFiles/Wyklad.dir/W1/Zadania/W1.1_Migracja_kodu_Java_na_C++.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W1/Zadania/W1.1$ Migracja$ kodu$ Java$ na$ C++.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles/Wyklad.dir/W1/Zadania/W1.1_Migracja_kodu_Java_na_C++.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W1/Zadania
 
 build CMakeFiles/Wyklad.dir/W1/Zadania/W1.2_Podstawowe_operacje_na_zmiennych_tekstowych.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W1/Zadania/W1.2$ Podstawowe$ operacje$ na$ zmiennych$ tekstowych.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles/Wyklad.dir/W1/Zadania/W1.2_Podstawowe_operacje_na_zmiennych_tekstowych.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W1/Zadania
 
 build CMakeFiles/Wyklad.dir/W1/Zadania/W1.3_Translacja_cyfr.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W1/Zadania/W1.3$ Translacja$ cyfr.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles/Wyklad.dir/W1/Zadania/W1.3_Translacja_cyfr.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W1/Zadania
 
 build CMakeFiles/Wyklad.dir/W1/Zadania/W1.4_Porównanie_zachowania_między_Javą_a_C++.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W1/Zadania/W1.4$ Porównanie$ zachowania$ między$ Javą$ a$ C++.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles/Wyklad.dir/W1/Zadania/W1.4_Porównanie_zachowania_między_Javą_a_C++.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W1/Zadania
 
 build CMakeFiles/Wyklad.dir/W1/Zadania/W1.5_Sprawdzanie,_czy_pierwsza_wpisana_sekwencja_jest_równa_drugiej__.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W1/Zadania/W1.5$ Sprawdzanie,$ czy$ pierwsza$ wpisana$ sekwencja$ jest$ równa$ drugiej$ $ .cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles/Wyklad.dir/W1/Zadania/W1.5_Sprawdzanie,_czy_pierwsza_wpisana_sekwencja_jest_równa_drugiej__.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W1/Zadania
 
 build CMakeFiles/Wyklad.dir/W1/Zadania/W1.6_Suma_dwóch_liczb.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W1/Zadania/W1.6$ Suma$ dwóch$ liczb.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles/Wyklad.dir/W1/Zadania/W1.6_Suma_dwóch_liczb.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W1/Zadania
 
 build CMakeFiles/Wyklad.dir/Core/Box_print.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/Core/Box$ print.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles/Wyklad.dir/Core/Box_print.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/Core
+
+build CMakeFiles/Wyklad.dir/W2/W.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/W.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/W2/W.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles/Wyklad.dir
+  OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2
+
+build CMakeFiles/Wyklad.dir/W2/Zadania/Eliminowanie_największej_i_najmniejszej_wartości.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/Eliminowanie$ największej$ i$ najmniejszej$ wartości.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/Eliminowanie_największej_i_najmniejszej_wartości.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles/Wyklad.dir
+  OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2/Zadania
+
+build CMakeFiles/Wyklad.dir/Core/Odwracanie_słów.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/Core/Odwracanie$ słów.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/Core/Odwracanie_słów.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles/Wyklad.dir
+  OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/Core
+
+build CMakeFiles/Wyklad.dir/W2/Zadania/Iloczyn_skalarny.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/Iloczyn$ skalarny.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/Iloczyn_skalarny.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles/Wyklad.dir
+  OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2/Zadania
+
+build CMakeFiles/Wyklad.dir/W2/Zadania/Iterowanie_pomijając_niektóre_elementy__.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/Iterowanie$ pomijając$ niektóre$ elementy$ $ .cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/Iterowanie_pomijając_niektóre_elementy__.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles/Wyklad.dir
+  OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2/Zadania
+
+build CMakeFiles/Wyklad.dir/W2/Zadania/Największe_elementy_zbioru.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/Największe$ elementy$ zbioru.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/Największe_elementy_zbioru.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles/Wyklad.dir
+  OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2/Zadania
+
+build CMakeFiles/Wyklad.dir/W2/Zadania/Palindromy.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/Palindromy.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/Palindromy.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles/Wyklad.dir
+  OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2/Zadania
+
+build CMakeFiles/Wyklad.dir/W2/Zadania/Sortowanie_wybranej_połowy_wektora.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/Sortowanie$ wybranej$ połowy$ wektora.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/Sortowanie_wybranej_połowy_wektora.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles/Wyklad.dir
+  OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2/Zadania
+
+build CMakeFiles/Wyklad.dir/W2/Zadania/Usuwanie_duplikatów.cpp.o: CXX_COMPILER__Wyklad_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/W2/Zadania/Usuwanie$ duplikatów.cpp || cmake_object_order_depends_target_Wyklad
+  DEP_FILE = CMakeFiles/Wyklad.dir/W2/Zadania/Usuwanie_duplikatów.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles/Wyklad.dir
+  OBJECT_FILE_DIR = CMakeFiles/Wyklad.dir/W2/Zadania
 
 
 # =============================================================================
@@ -105,8 +176,9 @@ build CMakeFiles/Wyklad.dir/Core/Box_print.cpp.o: CXX_COMPILER__Wyklad_unscanned
 #############################################
 # Link the executable Wyklad
 
-build Wyklad: CXX_EXECUTABLE_LINKER__Wyklad_Debug CMakeFiles/Wyklad.dir/W1/W.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.1_Migracja_kodu_Java_na_C++.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.2_Podstawowe_operacje_na_zmiennych_tekstowych.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.3_Translacja_cyfr.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.4_Porównanie_zachowania_między_Javą_a_C++.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.5_Sprawdzanie,_czy_pierwsza_wpisana_sekwencja_jest_równa_drugiej__.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.6_Suma_dwóch_liczb.cpp.o CMakeFiles/Wyklad.dir/Core/Box_print.cpp.o
+build Wyklad: CXX_EXECUTABLE_LINKER__Wyklad_Debug CMakeFiles/Wyklad.dir/W1/W.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.1_Migracja_kodu_Java_na_C++.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.2_Podstawowe_operacje_na_zmiennych_tekstowych.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.3_Translacja_cyfr.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.4_Porównanie_zachowania_między_Javą_a_C++.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.5_Sprawdzanie,_czy_pierwsza_wpisana_sekwencja_jest_równa_drugiej__.cpp.o CMakeFiles/Wyklad.dir/W1/Zadania/W1.6_Suma_dwóch_liczb.cpp.o CMakeFiles/Wyklad.dir/Core/Box_print.cpp.o CMakeFiles/Wyklad.dir/W2/W.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/Eliminowanie_największej_i_najmniejszej_wartości.cpp.o CMakeFiles/Wyklad.dir/Core/Odwracanie_słów.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/Iloczyn_skalarny.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/Iterowanie_pomijając_niektóre_elementy__.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/Największe_elementy_zbioru.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/Palindromy.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/Sortowanie_wybranej_połowy_wektora.cpp.o CMakeFiles/Wyklad.dir/W2/Zadania/Usuwanie_duplikatów.cpp.o | _deps/fmt-build/libfmtd.a || _deps/fmt-build/libfmtd.a
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  LINK_LIBRARIES = _deps/fmt-build/libfmtd.a
   OBJECT_DIR = CMakeFiles/Wyklad.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -136,8 +208,164 @@ build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
 
 build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
+
+#############################################
+# Utility command for list_install_components
+
+build list_install_components: phony
+
+
+#############################################
+# Utility command for install
+
+build CMakeFiles/install.util: CUSTOM_COMMAND all
+  COMMAND = cd /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug && /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -P cmake_install.cmake
+  DESC = Install the project...
+  pool = console
+  restat = 1
+
+build install: phony CMakeFiles/install.util
+
+
+#############################################
+# Utility command for install/local
+
+build CMakeFiles/install/local.util: CUSTOM_COMMAND all
+  COMMAND = cd /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug && /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
+  DESC = Installing only the local directory...
+  pool = console
+  restat = 1
+
+build install/local: phony CMakeFiles/install/local.util
+
+
+#############################################
+# Utility command for install/strip
+
+build CMakeFiles/install/strip.util: CUSTOM_COMMAND all
+  COMMAND = cd /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug && /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
+  DESC = Installing the project stripped...
+  pool = console
+  restat = 1
+
+build install/strip: phony CMakeFiles/install/strip.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# /Users/arturcegielka-posluszny/CLionProjects/Wyklad/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for STATIC_LIBRARY target fmt
+
+
+#############################################
+# Order-only phony target for fmt
+
+build cmake_object_order_depends_target_fmt: phony || _deps/fmt-build/CMakeFiles/fmt.dir
+
+build _deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.o: CXX_COMPILER__fmt_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/src/format.cc || cmake_object_order_depends_target_fmt
+  DEP_FILE = _deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = _deps/fmt-build/CMakeFiles/fmt.dir
+  OBJECT_FILE_DIR = _deps/fmt-build/CMakeFiles/fmt.dir/src
+
+build _deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.o: CXX_COMPILER__fmt_unscanned_Debug /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/src/os.cc || cmake_object_order_depends_target_fmt
+  DEP_FILE = _deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = _deps/fmt-build/CMakeFiles/fmt.dir
+  OBJECT_FILE_DIR = _deps/fmt-build/CMakeFiles/fmt.dir/src
+
+
+# =============================================================================
+# Link build statements for STATIC_LIBRARY target fmt
+
+
+#############################################
+# Link the static library _deps/fmt-build/libfmtd.a
+
+build _deps/fmt-build/libfmtd.a: CXX_STATIC_LIBRARY_LINKER__fmt_Debug _deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.o _deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.o
+  ARCH_FLAGS = -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  LANGUAGE_COMPILE_FLAGS = -g
+  OBJECT_DIR = _deps/fmt-build/CMakeFiles/fmt.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = _deps/fmt-build/libfmtd.a
+  TARGET_PDB = fmtd.a.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build _deps/fmt-build/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-build && /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build _deps/fmt-build/edit_cache: phony _deps/fmt-build/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build _deps/fmt-build/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-build && /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S/Users/arturcegielka-posluszny/CLionProjects/Wyklad -B/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build _deps/fmt-build/rebuild_cache: phony _deps/fmt-build/CMakeFiles/rebuild_cache.util
+
+
+#############################################
+# Utility command for list_install_components
+
+build _deps/fmt-build/list_install_components: phony
+
+
+#############################################
+# Utility command for install
+
+build _deps/fmt-build/CMakeFiles/install.util: CUSTOM_COMMAND _deps/fmt-build/all
+  COMMAND = cd /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-build && /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -P cmake_install.cmake
+  DESC = Install the project...
+  pool = console
+  restat = 1
+
+build _deps/fmt-build/install: phony _deps/fmt-build/CMakeFiles/install.util
+
+
+#############################################
+# Utility command for install/local
+
+build _deps/fmt-build/CMakeFiles/install/local.util: CUSTOM_COMMAND _deps/fmt-build/all
+  COMMAND = cd /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-build && /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
+  DESC = Installing only the local directory...
+  pool = console
+  restat = 1
+
+build _deps/fmt-build/install/local: phony _deps/fmt-build/CMakeFiles/install/local.util
+
+
+#############################################
+# Utility command for install/strip
+
+build _deps/fmt-build/CMakeFiles/install/strip.util: CUSTOM_COMMAND _deps/fmt-build/all
+  COMMAND = cd /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-build && /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
+  DESC = Installing the project stripped...
+  pool = console
+  restat = 1
+
+build _deps/fmt-build/install/strip: phony _deps/fmt-build/CMakeFiles/install/strip.util
+
 # =============================================================================
 # Target aliases.
+
+build fmt: phony _deps/fmt-build/libfmtd.a
+
+build libfmtd.a: phony _deps/fmt-build/libfmtd.a
 
 # =============================================================================
 # Folder targets.
@@ -147,7 +375,14 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug
 
-build all: phony Wyklad
+build all: phony Wyklad _deps/fmt-build/all
+
+# =============================================================================
+
+#############################################
+# Folder: /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-build
+
+build _deps/fmt-build/all: phony _deps/fmt-build/libfmtd.a
 
 # =============================================================================
 # Built-in targets
@@ -156,14 +391,14 @@ build all: phony Wyklad
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | /Users/arturcegielka-posluszny/CLionProjects/Wyklad/CMakeLists.txt /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/AppleClang-C.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/AppleClang-CXX.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/Clang.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/GNU.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-C.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-CXX.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang-C.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang-CXX.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Darwin-Initialize.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Darwin.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.27.8/CMakeCCompiler.cmake CMakeFiles/3.27.8/CMakeCXXCompiler.cmake CMakeFiles/3.27.8/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | /Users/arturcegielka-posluszny/CLionProjects/Wyklad/CMakeLists.txt /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeParseArguments.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CheckCXXCompilerFlag.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CheckCXXSourceCompiles.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/AppleClang-C.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/AppleClang-CXX.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/Clang.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/GNU.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/ExternalProject/shared_internal_commands.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/FetchContent.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/FetchContent/CMakeLists.cmake.in /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/FindGit.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/FindPackageMessage.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/GNUInstallDirs.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Internal/CheckCompilerFlag.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Internal/CheckFlagCommonConfig.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-C.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-CXX.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang-C.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang-CXX.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Darwin-Initialize.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Darwin.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/3.27.8/CMakeCCompiler.cmake CMakeFiles/3.27.8/CMakeCXXCompiler.cmake CMakeFiles/3.27.8/CMakeSystem.cmake _deps/fmt-src/CMakeLists.txt _deps/fmt-src/support/cmake/JoinPaths.cmake _deps/fmt-src/support/cmake/fmt-config.cmake.in _deps/fmt-src/support/cmake/fmt.pc.in
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /Users/arturcegielka-posluszny/CLionProjects/Wyklad/CMakeLists.txt /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/AppleClang-C.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/AppleClang-CXX.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/Clang.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/GNU.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-C.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-CXX.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang-C.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang-CXX.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Darwin-Initialize.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Darwin.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.27.8/CMakeCCompiler.cmake CMakeFiles/3.27.8/CMakeCXXCompiler.cmake CMakeFiles/3.27.8/CMakeSystem.cmake: phony
+build /Users/arturcegielka-posluszny/CLionProjects/Wyklad/CMakeLists.txt /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeParseArguments.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CheckCXXCompilerFlag.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CheckCXXSourceCompiles.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/AppleClang-C.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/AppleClang-CXX.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/Clang.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/GNU.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/ExternalProject/shared_internal_commands.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/FetchContent.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/FetchContent/CMakeLists.cmake.in /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/FindGit.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/FindPackageMessage.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/GNUInstallDirs.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Internal/CheckCompilerFlag.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Internal/CheckFlagCommonConfig.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-C.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-CXX.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang-C.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang-CXX.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Darwin-Initialize.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Darwin.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/3.27.8/CMakeCCompiler.cmake CMakeFiles/3.27.8/CMakeCXXCompiler.cmake CMakeFiles/3.27.8/CMakeSystem.cmake _deps/fmt-src/CMakeLists.txt _deps/fmt-src/support/cmake/JoinPaths.cmake _deps/fmt-src/support/cmake/fmt-config.cmake.in _deps/fmt-src/support/cmake/fmt.pc.in: phony
 
 
 #############################################

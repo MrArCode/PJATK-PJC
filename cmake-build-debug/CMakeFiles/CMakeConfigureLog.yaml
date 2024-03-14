@@ -380,3 +380,38 @@ events:
       
       
 ...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "/Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles)"
+      - "/Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CheckCXXCompilerFlag.cmake:34 (cmake_check_compiler_flag)"
+      - "cmake-build-debug/_deps/fmt-src/CMakeLists.txt:237 (check_cxx_compiler_flag)"
+    checks:
+      - "Performing Test HAS_NULLPTR_WARNING"
+    directories:
+      source: "/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-jBP5KS"
+      binary: "/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-jBP5KS"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+      CMAKE_MODULE_PATH: "/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/support/cmake"
+      CMAKE_OSX_ARCHITECTURES: ""
+      CMAKE_OSX_DEPLOYMENT_TARGET: ""
+      CMAKE_OSX_SYSROOT: "/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk"
+    buildResult:
+      variable: "HAS_NULLPTR_WARNING"
+      cached: true
+      stdout: |
+        Change Dir: '/Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-jBP5KS'
+        
+        Run Build Command(s): /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -v cmTC_903b4
+        [1/2] /Library/Developer/CommandLineTools/usr/bin/c++ -DHAS_NULLPTR_WARNING  -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics   -Wzero-as-null-pointer-constant -MD -MT CMakeFiles/cmTC_903b4.dir/src.cxx.o -MF CMakeFiles/cmTC_903b4.dir/src.cxx.o.d -o CMakeFiles/cmTC_903b4.dir/src.cxx.o -c /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-jBP5KS/src.cxx
+        [2/2] : && /Library/Developer/CommandLineTools/usr/bin/c++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cmTC_903b4.dir/src.cxx.o -o cmTC_903b4   && :
+        
+      exitCode: 0
+...

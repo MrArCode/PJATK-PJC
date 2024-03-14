@@ -1,4 +1,6 @@
 /Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/arturcegielka-posluszny/Desktop/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/arturcegielka-posluszny/CLionProjects/Wyklad -B /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug
--- Configuring done (0.0s)
+-- Version: 10.2.1
+-- Build type: Debug
+-- Configuring done (0.2s)
 -- Generating done (0.0s)
 -- Build files have been written to: /Users/arturcegielka-posluszny/CLionProjects/Wyklad/cmake-build-debug
