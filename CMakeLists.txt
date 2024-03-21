@@ -30,5 +30,10 @@ add_executable(Wyklad W1/W.cpp
         "W2/Zadania/W2.6 Sortowanie wybranej połowy wektora.cpp"
         "W2/Zadania/W2.7 Usuwanie duplikatów.cpp"
         "Core/W2.2 Manipulacja formatem wyświetlania danych.cpp"
+        W3/W.cpp
+        "W3/Zadania/W3.1 Modyfikacje elementów przy pomocy pętli zakresowej.cpp"
+        "W3/Zadania/W3.3 Szukanie najdłuższego tekstu.cpp"
+        "W3/Zadania/W3.4 Usuwanie sąsiednich białych znaków.cpp"
+        "Core/W3.2 Wzbogacenia biblioteki standardowej.cpp"
 )
 target_link_libraries(Wyklad fmt)
