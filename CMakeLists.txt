@@ -35,5 +35,6 @@ add_executable(Wyklad W1/W.cpp
         "W3/Zadania/W3.3 Szukanie najdłuższego tekstu.cpp"
         "W3/Zadania/W3.4 Usuwanie sąsiednich białych znaków.cpp"
         "Core/W3.2 Wzbogacenia biblioteki standardowej.cpp"
+        "Core/W3.1 Refactoring przy użyciu lambd i algorytmów.cpp"
 )
 target_link_libraries(Wyklad fmt)
