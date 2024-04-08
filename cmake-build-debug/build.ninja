@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target Wyklad
 
@@ -49,229 +49,293 @@ cmake_ninja_workdir = C$:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/
 
 build cmake_object_order_depends_target_Wyklad: phony || cmake_object_order_depends_target_fmt
 
-build CMakeFiles/Wyklad.dir/W1/W.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W1/W.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W1/W.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W1/W.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W1\W.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W1
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W1/Zadania/W1.1_Migracja_kodu_Java_na_C++.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W1/Zadania/W1.1$ Migracja$ kodu$ Java$ na$ C++.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W1/Zadania/W1.1_Migracja_kodu_Java_na_C++.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W1/Zadania/W1.1$ Migracja$ kodu$ Java$ na$ C++.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W1\Zadania\W1.1_Migracja_kodu_Java_na_C++.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W1\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W1/Zadania/W1.2_Podstawowe_operacje_na_zmiennych_tekstowych.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W1/Zadania/W1.2$ Podstawowe$ operacje$ na$ zmiennych$ tekstowych.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W1/Zadania/W1.2_Podstawowe_operacje_na_zmiennych_tekstowych.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W1/Zadania/W1.2$ Podstawowe$ operacje$ na$ zmiennych$ tekstowych.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W1\Zadania\W1.2_Podstawowe_operacje_na_zmiennych_tekstowych.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W1\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W1/Zadania/W1.3_Translacja_cyfr.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W1/Zadania/W1.3$ Translacja$ cyfr.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W1/Zadania/W1.3_Translacja_cyfr.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W1/Zadania/W1.3$ Translacja$ cyfr.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W1\Zadania\W1.3_Translacja_cyfr.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W1\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W1/Zadania/W1.4_Porównanie_zachowania_miêdzy_Jav¹_a_C++.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W1/Zadania/W1.4$ Porównanie$ zachowania$ miêdzy$ Jav¹$ a$ C++.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W1/Zadania/W1.4_Porównanie_zachowania_miêdzy_Jav¹_a_C++.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W1/Zadania/W1.4$ Porównanie$ zachowania$ miêdzy$ Jav¹$ a$ C++.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W1\Zadania\W1.4_Porównanie_zachowania_miêdzy_Jav¹_a_C++.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W1\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W1/Zadania/W1.5_Sprawdzanie,_czy_pierwsza_wpisana_sekwencja_jest_równa_drugiej__.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W1/Zadania/W1.5$ Sprawdzanie,$ czy$ pierwsza$ wpisana$ sekwencja$ jest$ równa$ drugiej$ $ .cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W1/Zadania/W1.5_Sprawdzanie,_czy_pierwsza_wpisana_sekwencja_jest_równa_drugiej__.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W1/Zadania/W1.5$ Sprawdzanie,$ czy$ pierwsza$ wpisana$ sekwencja$ jest$ równa$ drugiej$ $ .cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W1\Zadania\W1.5_Sprawdzanie,_czy_pierwsza_wpisana_sekwencja_jest_równa_drugiej__.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W1\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W1/Zadania/W1.6_Suma_dwóch_liczb.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W1/Zadania/W1.6$ Suma$ dwóch$ liczb.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W1/Zadania/W1.6_Suma_dwóch_liczb.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W1/Zadania/W1.6$ Suma$ dwóch$ liczb.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W1\Zadania\W1.6_Suma_dwóch_liczb.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W1\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/Core/W1.1_Box_print.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/Core/W1.1$ Box$ print.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/Core/W1.1_Box_print.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/Core/W1.1$ Box$ print.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\Core\W1.1_Box_print.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\Core
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W2/W.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W2/W.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W2/W.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W2/W.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W2\W.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W2
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W2/Zadania/W2.1_Eliminowanie_najwiêkszej_i_najmniejszej_wartoœci.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W2/Zadania/W2.1$ Eliminowanie$ najwiêkszej$ i$ najmniejszej$ wartoœci.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W2/Zadania/W2.1_Eliminowanie_najwiêkszej_i_najmniejszej_wartoœci.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W2/Zadania/W2.1$ Eliminowanie$ najwiêkszej$ i$ najmniejszej$ wartoœci.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W2\Zadania\W2.1_Eliminowanie_najwiêkszej_i_najmniejszej_wartoœci.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W2\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/Core/W2.1_Odwracanie_s³ów.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/Core/W2.1$ Odwracanie$ s³ów.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/Core/W2.1_Odwracanie_s³ów.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/Core/W2.1$ Odwracanie$ s³ów.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\Core\W2.1_Odwracanie_s³ów.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\Core
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W2/Zadania/W2.2_Iloczyn_skalarny.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W2/Zadania/W2.2$ Iloczyn$ skalarny.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W2/Zadania/W2.2_Iloczyn_skalarny.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W2/Zadania/W2.2$ Iloczyn$ skalarny.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W2\Zadania\W2.2_Iloczyn_skalarny.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W2\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W2/Zadania/W2.3_Iteracja_co_N_elementów.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W2/Zadania/W2.3$ Iteracja$ co$ N$ elementów.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W2/Zadania/W2.3_Iteracja_co_N_elementów.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W2/Zadania/W2.3$ Iteracja$ co$ N$ elementów.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W2\Zadania\W2.3_Iteracja_co_N_elementów.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W2\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W2/Zadania/W2.4_Najwiêksze_elementy_zbioru.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W2/Zadania/W2.4$ Najwiêksze$ elementy$ zbioru.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W2/Zadania/W2.4_Najwiêksze_elementy_zbioru.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W2/Zadania/W2.4$ Najwiêksze$ elementy$ zbioru.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W2\Zadania\W2.4_Najwiêksze_elementy_zbioru.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W2\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W2/Zadania/W2.5_Palindromy.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W2/Zadania/W2.5$ Palindromy.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W2/Zadania/W2.5_Palindromy.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W2/Zadania/W2.5$ Palindromy.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W2\Zadania\W2.5_Palindromy.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W2\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W2/Zadania/W2.6_Sortowanie_wybranej_po³owy_wektora.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W2/Zadania/W2.6$ Sortowanie$ wybranej$ po³owy$ wektora.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W2/Zadania/W2.6_Sortowanie_wybranej_po³owy_wektora.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W2/Zadania/W2.6$ Sortowanie$ wybranej$ po³owy$ wektora.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W2\Zadania\W2.6_Sortowanie_wybranej_po³owy_wektora.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W2\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W2/Zadania/W2.7_Usuwanie_duplikatów.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W2/Zadania/W2.7$ Usuwanie$ duplikatów.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W2/Zadania/W2.7_Usuwanie_duplikatów.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W2/Zadania/W2.7$ Usuwanie$ duplikatów.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W2\Zadania\W2.7_Usuwanie_duplikatów.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W2\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/Core/W2.2_Manipulacja_formatem_wyœwietlania_danych.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/Core/W2.2$ Manipulacja$ formatem$ wyœwietlania$ danych.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/Core/W2.2_Manipulacja_formatem_wyœwietlania_danych.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/Core/W2.2$ Manipulacja$ formatem$ wyœwietlania$ danych.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\Core\W2.2_Manipulacja_formatem_wyœwietlania_danych.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\Core
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W3/W.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W3/W.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W3/W.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W3/W.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W3\W.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W3
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W3/Zadania/W3.1_Modyfikacje_elementów_przy_pomocy_pêtli_zakresowej.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W3/Zadania/W3.1$ Modyfikacje$ elementów$ przy$ pomocy$ pêtli$ zakresowej.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W3/Zadania/W3.1_Modyfikacje_elementów_przy_pomocy_pêtli_zakresowej.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W3/Zadania/W3.1$ Modyfikacje$ elementów$ przy$ pomocy$ pêtli$ zakresowej.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W3\Zadania\W3.1_Modyfikacje_elementów_przy_pomocy_pêtli_zakresowej.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W3\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W3/Zadania/W3.3_Szukanie_najd³u¿szego_tekstu.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W3/Zadania/W3.3$ Szukanie$ najd³u¿szego$ tekstu.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W3/Zadania/W3.3_Szukanie_najd³u¿szego_tekstu.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W3/Zadania/W3.3$ Szukanie$ najd³u¿szego$ tekstu.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W3\Zadania\W3.3_Szukanie_najd³u¿szego_tekstu.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W3\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W3/Zadania/W3.4_Usuwanie_s¹siednich_bia³ych_znaków.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W3/Zadania/W3.4$ Usuwanie$ s¹siednich$ bia³ych$ znaków.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W3/Zadania/W3.4_Usuwanie_s¹siednich_bia³ych_znaków.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W3/Zadania/W3.4$ Usuwanie$ s¹siednich$ bia³ych$ znaków.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W3\Zadania\W3.4_Usuwanie_s¹siednich_bia³ych_znaków.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W3\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/Core/W3.2_Wzbogacenia_biblioteki_standardowej.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/Core/W3.2$ Wzbogacenia$ biblioteki$ standardowej.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/Core/W3.2_Wzbogacenia_biblioteki_standardowej.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/Core/W3.2$ Wzbogacenia$ biblioteki$ standardowej.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\Core\W3.2_Wzbogacenia_biblioteki_standardowej.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\Core
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/Core/W3.1_Refactoring_przy_u¿yciu_lambd_i_algorytmów.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/Core/W3.1$ Refactoring$ przy$ u¿yciu$ lambd$ i$ algorytmów.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/Core/W3.1_Refactoring_przy_u¿yciu_lambd_i_algorytmów.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/Core/W3.1$ Refactoring$ przy$ u¿yciu$ lambd$ i$ algorytmów.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\Core\W3.1_Refactoring_przy_u¿yciu_lambd_i_algorytmów.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\Core
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W3/Zadania/W3.2_Naturalne_sortowanie.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W3/Zadania/W3.2$ Naturalne$ sortowanie.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W3/Zadania/W3.2_Naturalne_sortowanie.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W3/Zadania/W3.2$ Naturalne$ sortowanie.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W3\Zadania\W3.2_Naturalne_sortowanie.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W3\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W4/W.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W4/W.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W4/W.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W4/W.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W4\W.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W4
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W4/Zadania/W4.1_Generyczne_udoskonalenia_biblioteki_standardowej.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W4/Zadania/W4.1$ Generyczne$ udoskonalenia$ biblioteki$ standardowej.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W4/Zadania/W4.1_Generyczne_udoskonalenia_biblioteki_standardowej.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W4/Zadania/W4.1$ Generyczne$ udoskonalenia$ biblioteki$ standardowej.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W4\Zadania\W4.1_Generyczne_udoskonalenia_biblioteki_standardowej.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W4\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W4/Zadania/W4.2_Analiza_liczb_w_folderze.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W4/Zadania/W4.2$ Analiza$ liczb$ w$ folderze.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W4/Zadania/W4.2_Analiza_liczb_w_folderze.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W4/Zadania/W4.2$ Analiza$ liczb$ w$ folderze.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W4\Zadania\W4.2_Analiza_liczb_w_folderze.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W4\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W4/Zadania/W4.3_Analiza_liczb_w_pliku.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W4/Zadania/W4.3$ Analiza$ liczb$ w$ pliku.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W4/Zadania/W4.3_Analiza_liczb_w_pliku.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W4/Zadania/W4.3$ Analiza$ liczb$ w$ pliku.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W4\Zadania\W4.3_Analiza_liczb_w_pliku.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W4\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/W4/Zadania/W4.4_Poprawne_sudoku.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/W4/Zadania/W4.4$ Poprawne$ sudoku.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/W4/Zadania/W4.4_Poprawne_sudoku.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/W4/Zadania/W4.4$ Poprawne$ sudoku.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\W4\Zadania\W4.4_Poprawne_sudoku.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\W4\Zadania
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/Core/W4.2_Dzielenie_zakresów_na_czêœci.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/Core/W4.2$ Dzielenie$ zakresów$ na$ czêœci.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/Core/W4.2_Dzielenie_zakresów_na_czêœci.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/Core/W4.2$ Dzielenie$ zakresów$ na$ czêœci.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\Core\W4.2_Dzielenie_zakresów_na_czêœci.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\Core
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
-build CMakeFiles/Wyklad.dir/Egzamin/Æwiczenia.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/Egzamin/Æwiczenia.cpp || cmake_object_order_depends_target_Wyklad
+build CMakeFiles/Wyklad.dir/Egzamin/Æwiczenia.cpp.obj: CXX_COMPILER__Wyklad_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/Egzamin/Æwiczenia.cpp || cmake_object_order_depends_target_Wyklad
   DEP_FILE = CMakeFiles\Wyklad.dir\Egzamin\Æwiczenia.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   OBJECT_FILE_DIR = CMakeFiles\Wyklad.dir\Egzamin
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
+  TARGET_PDB = Wyklad.pdb
 
 
 # =============================================================================
@@ -287,16 +351,17 @@ build Wyklad.exe: CXX_EXECUTABLE_LINKER__Wyklad_Debug CMakeFiles/Wyklad.dir/W1/W
   OBJECT_DIR = CMakeFiles\Wyklad.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\Wyklad.dir\
   TARGET_FILE = Wyklad.exe
   TARGET_IMPLIB = libWyklad.dll.a
-  TARGET_PDB = Wyklad.exe.dbg
+  TARGET_PDB = Wyklad.pdb
 
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\Wyklad\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\PJATK-PJC\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -307,7 +372,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\Wyklad\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\czuro\CLionProjects\Wyklad -BC:\Users\czuro\CLionProjects\Wyklad\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\PJATK-PJC\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\czuro\CLionProjects\PJATK-PJC -BC:\Users\czuro\CLionProjects\PJATK-PJC\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -325,7 +390,7 @@ build list_install_components: phony
 # Utility command for install
 
 build CMakeFiles/install.util: CUSTOM_COMMAND all
-  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\Wyklad\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\PJATK-PJC\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
   DESC = Install the project...
   pool = console
   restat = 1
@@ -337,7 +402,7 @@ build install: phony CMakeFiles/install.util
 # Utility command for install/local
 
 build CMakeFiles/install/local.util: CUSTOM_COMMAND all
-  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\Wyklad\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\PJATK-PJC\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -349,7 +414,7 @@ build install/local: phony CMakeFiles/install/local.util
 # Utility command for install/strip
 
 build CMakeFiles/install/strip.util: CUSTOM_COMMAND all
-  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\Wyklad\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\PJATK-PJC\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -358,7 +423,7 @@ build install/strip: phony CMakeFiles/install/strip.util
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# C:/Users/czuro/CLionProjects/Wyklad/CMakeLists.txt
+# C:/Users/czuro/CLionProjects/PJATK-PJC/CMakeLists.txt
 # =============================================================================
 
 # =============================================================================
@@ -370,19 +435,23 @@ build install/strip: phony CMakeFiles/install/strip.util
 
 build cmake_object_order_depends_target_fmt: phony || _deps/fmt-build/CMakeFiles/fmt.dir
 
-build _deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj: CXX_COMPILER__fmt_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/src/format.cc || cmake_object_order_depends_target_fmt
+build _deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj: CXX_COMPILER__fmt_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/src/format.cc || cmake_object_order_depends_target_fmt
   DEP_FILE = _deps\fmt-build\CMakeFiles\fmt.dir\src\format.cc.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = _deps\fmt-build\CMakeFiles\fmt.dir
   OBJECT_FILE_DIR = _deps\fmt-build\CMakeFiles\fmt.dir\src
+  TARGET_COMPILE_PDB = libfmtd.pdb
+  TARGET_PDB = _deps\fmt-build\libfmtd.pdb
 
-build _deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj: CXX_COMPILER__fmt_unscanned_Debug C$:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/src/os.cc || cmake_object_order_depends_target_fmt
+build _deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj: CXX_COMPILER__fmt_unscanned_Debug C$:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/src/os.cc || cmake_object_order_depends_target_fmt
   DEP_FILE = _deps\fmt-build\CMakeFiles\fmt.dir\src\os.cc.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-src/include
+  INCLUDES = -IC:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-src/include
   OBJECT_DIR = _deps\fmt-build\CMakeFiles\fmt.dir
   OBJECT_FILE_DIR = _deps\fmt-build\CMakeFiles\fmt.dir\src
+  TARGET_COMPILE_PDB = libfmtd.pdb
+  TARGET_PDB = _deps\fmt-build\libfmtd.pdb
 
 
 # =============================================================================
@@ -397,15 +466,16 @@ build _deps/fmt-build/libfmtd.a: CXX_STATIC_LIBRARY_LINKER__fmt_Debug _deps/fmt-
   OBJECT_DIR = _deps\fmt-build\CMakeFiles\fmt.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = libfmtd.pdb
   TARGET_FILE = _deps\fmt-build\libfmtd.a
-  TARGET_PDB = fmtd.a.dbg
+  TARGET_PDB = _deps\fmt-build\libfmtd.pdb
 
 
 #############################################
 # Utility command for edit_cache
 
 build _deps/fmt-build/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\Wyklad\cmake-build-debug\_deps\fmt-build && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\PJATK-PJC\cmake-build-debug\_deps\fmt-build && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -416,7 +486,7 @@ build _deps/fmt-build/edit_cache: phony _deps/fmt-build/CMakeFiles/edit_cache.ut
 # Utility command for rebuild_cache
 
 build _deps/fmt-build/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\Wyklad\cmake-build-debug\_deps\fmt-build && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\czuro\CLionProjects\Wyklad -BC:\Users\czuro\CLionProjects\Wyklad\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\PJATK-PJC\cmake-build-debug\_deps\fmt-build && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\czuro\CLionProjects\PJATK-PJC -BC:\Users\czuro\CLionProjects\PJATK-PJC\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -434,7 +504,7 @@ build _deps/fmt-build/list_install_components: phony
 # Utility command for install
 
 build _deps/fmt-build/CMakeFiles/install.util: CUSTOM_COMMAND _deps/fmt-build/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\Wyklad\cmake-build-debug\_deps\fmt-build && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\PJATK-PJC\cmake-build-debug\_deps\fmt-build && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
   DESC = Install the project...
   pool = console
   restat = 1
@@ -446,7 +516,7 @@ build _deps/fmt-build/install: phony _deps/fmt-build/CMakeFiles/install.util
 # Utility command for install/local
 
 build _deps/fmt-build/CMakeFiles/install/local.util: CUSTOM_COMMAND _deps/fmt-build/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\Wyklad\cmake-build-debug\_deps\fmt-build && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\PJATK-PJC\cmake-build-debug\_deps\fmt-build && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -458,7 +528,7 @@ build _deps/fmt-build/install/local: phony _deps/fmt-build/CMakeFiles/install/lo
 # Utility command for install/strip
 
 build _deps/fmt-build/CMakeFiles/install/strip.util: CUSTOM_COMMAND _deps/fmt-build/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\Wyklad\cmake-build-debug\_deps\fmt-build && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\czuro\CLionProjects\PJATK-PJC\cmake-build-debug\_deps\fmt-build && "C:\Program Files\JetBrains\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -480,14 +550,14 @@ build libfmtd.a: phony _deps/fmt-build/libfmtd.a
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug
+# Folder: C:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug
 
 build all: phony Wyklad.exe _deps/fmt-build/all
 
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/czuro/CLionProjects/Wyklad/cmake-build-debug/_deps/fmt-build
+# Folder: C:/Users/czuro/CLionProjects/PJATK-PJC/cmake-build-debug/_deps/fmt-build
 
 build _deps/fmt-build/all: phony _deps/fmt-build/libfmtd.a
 
@@ -498,14 +568,14 @@ build _deps/fmt-build/all: phony _deps/fmt-build/libfmtd.a
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseArguments.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CheckCXXCompilerFlag.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CheckCXXSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/ExternalProject/shared_internal_commands.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FetchContent.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FetchContent/CMakeLists.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FindGit.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/GNUInstallDirs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/CheckCompilerFlag.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/CheckFlagCommonConfig.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake C$:/Users/czuro/CLionProjects/Wyklad/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.8/CMakeCCompiler.cmake CMakeFiles/3.27.8/CMakeCXXCompiler.cmake CMakeFiles/3.27.8/CMakeRCCompiler.cmake CMakeFiles/3.27.8/CMakeSystem.cmake _deps/fmt-src/CMakeLists.txt _deps/fmt-src/support/cmake/JoinPaths.cmake _deps/fmt-src/support/cmake/fmt-config.cmake.in _deps/fmt-src/support/cmake/fmt.pc.in
+build build.ninja: RERUN_CMAKE | C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseArguments.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CheckCXXCompilerFlag.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CheckCXXSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/ExternalProject/shared_internal_commands.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FetchContent.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FetchContent/CMakeLists.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FindGit.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/GNUInstallDirs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/CheckCompilerFlag.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/CheckFlagCommonConfig.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake C$:/Users/czuro/CLionProjects/PJATK-PJC/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.8/CMakeCCompiler.cmake CMakeFiles/3.27.8/CMakeCXXCompiler.cmake CMakeFiles/3.27.8/CMakeRCCompiler.cmake CMakeFiles/3.27.8/CMakeSystem.cmake _deps/fmt-src/CMakeLists.txt _deps/fmt-src/support/cmake/JoinPaths.cmake _deps/fmt-src/support/cmake/fmt-config.cmake.in _deps/fmt-src/support/cmake/fmt.pc.in
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseArguments.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CheckCXXCompilerFlag.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CheckCXXSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/ExternalProject/shared_internal_commands.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FetchContent.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FetchContent/CMakeLists.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FindGit.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/GNUInstallDirs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/CheckCompilerFlag.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/CheckFlagCommonConfig.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake C$:/Users/czuro/CLionProjects/Wyklad/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.8/CMakeCCompiler.cmake CMakeFiles/3.27.8/CMakeCXXCompiler.cmake CMakeFiles/3.27.8/CMakeRCCompiler.cmake CMakeFiles/3.27.8/CMakeSystem.cmake _deps/fmt-src/CMakeLists.txt _deps/fmt-src/support/cmake/JoinPaths.cmake _deps/fmt-src/support/cmake/fmt-config.cmake.in _deps/fmt-src/support/cmake/fmt.pc.in: phony
+build C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseArguments.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CheckCXXCompilerFlag.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CheckCXXSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/ExternalProject/shared_internal_commands.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FetchContent.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FetchContent/CMakeLists.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FindGit.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/GNUInstallDirs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/CheckCompilerFlag.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/CheckFlagCommonConfig.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake C$:/Users/czuro/CLionProjects/PJATK-PJC/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.8/CMakeCCompiler.cmake CMakeFiles/3.27.8/CMakeCXXCompiler.cmake CMakeFiles/3.27.8/CMakeRCCompiler.cmake CMakeFiles/3.27.8/CMakeSystem.cmake _deps/fmt-src/CMakeLists.txt _deps/fmt-src/support/cmake/JoinPaths.cmake _deps/fmt-src/support/cmake/fmt-config.cmake.in _deps/fmt-src/support/cmake/fmt.pc.in: phony
 
 
 #############################################
