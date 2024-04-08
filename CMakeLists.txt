@@ -43,5 +43,6 @@ add_executable(Wyklad W1/W.cpp
         "W4/Zadania/W4.3 Analiza liczb w pliku.cpp"
         "W4/Zadania/W4.4 Poprawne sudoku.cpp"
         "Core/W4.2 Dzielenie zakresów na części.cpp"
+        Egzamin/Ćwiczenia.cpp
 )
 target_link_libraries(Wyklad fmt)
