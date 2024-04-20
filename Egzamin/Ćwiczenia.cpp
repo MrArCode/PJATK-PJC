@@ -1,22 +1,17 @@
-#include <iostream>
-#include <vector>
-#include <fmt/ranges.h>
-#include <algorithm>
-#include <ranges>
-#include <set>
-
-namespace PJC {
-    auto modify(std::vector<int> &vec) -> void {
-        auto set = std::set<int>(vec.begin(), vec.end());
-        vec = std::vector<int>(set.begin(), set.end());
-    }
-}
-
-
-auto main() -> int {
-    auto vec = std::vector<int>{1,2,5,7,9,12};
-    auto iter = vec.begin();
-    vec.erase(iter);
-    fmt::print("{}", vec);
-}
-
+//#include <iostream>
+//#include <vector>
+//#include <fmt/ranges.h>
+//#include <algorithm>
+//#include <ranges>
+//#include <set>
+//#include <map>
+//
+//enum class Number {
+//    One = 1, Two = 2, Four = 4, Five = 5
+//};
+//
+//auto main() -> int {
+//
+//
+//}
+//

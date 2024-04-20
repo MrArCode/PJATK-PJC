@@ -44,5 +44,11 @@ add_executable(Wyklad W1/W.cpp
         "W4/Zadania/W4.4 Poprawne sudoku.cpp"
         "Core/W4.2 Dzielenie zakresów na części.cpp"
         Egzamin/Ćwiczenia.cpp
+        "W5/Zadania/W5.2 Grupowanie po długości tekstu.cpp"
+        "W5/Zadania/W5.2 Grupowanie po długości tekstu.cpp"
+        "W5/Zadania/W5.3 Analiza grupy studenckiej.cpp"
+        "W5/Zadania/W5.1 Szukanie cyklu w grafie.cpp"
+        "W5/Zadania/W5.4 Punkty w przestrzeni 2D.cpp"
+        "W5/Zadania/W5.4 Punkty w przestrzeni 2D.cpp"
 )
 target_link_libraries(Wyklad fmt)
